@@ -20,7 +20,7 @@
 
 ##
 
-<p><b>Knowledge</b></p>
+<h3>Knowledge</h3>
 
 <img align="right" alt="Anime-gif" width="350" src="https://i.pinimg.com/originals/be/53/fc/be53fc5350400539c44b3bc7c2552fe9.gif">
 
@@ -34,7 +34,7 @@
 
 <br><br>
 
-<p><b>Contact</b></p>
+<h3>Contact me</h3>
 
 <div style="display: inline_block">
   <a href="https://www.youtube.com/@BieeLL_" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
