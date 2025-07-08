@@ -1,14 +1,14 @@
-## Olá! Eu sou o Gabriel Martins, estudante de programação e tecnologia!
+<div align="center">
+<h2>Olá! Eu sou o Gabriel Martins, estudante de programação e tecnologia!</h2>
+</div>
 
 <br>
 
-<img align="right" alt="anime-pfp" width="350" src="https://png.pngtree.com/background/20230528/original/pngtree-an-anime-boy-with-glasses-picture-image_2782696.jpg">
-
-<p>Atualmente sou estudante de Ciências da Computação na Faculdade UniAnchieta. Me interesso tanto em ser um desenvolvedor front-end quanto back-end, porém atualmente meu foco de estudo está sendo a área de front-end. No momento estou desenvolvendo minhas habilidades no HTML, CSS e JS. Eu continuo estudando e me atualizando a cada momento na área da tecnologia pois gosto de estar sempre aprendendo coisas novas.</p>
+<p align="center">Atualmente sou estudante de Ciências da Computação na Faculdade UniAnchieta. Me interesso tanto em ser um desenvolvedor front-end quanto back-end, porém atualmente meu foco de estudo está sendo a área de front-end. No momento estou desenvolvendo minhas habilidades no HTML, CSS e JS. Eu continuo estudando e me atualizando a cada momento na área da tecnologia pois gosto de estar sempre aprendendo coisas novas.</p>
 
 <br>
 
-<div>
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev-C&repo=github-readme-stats&show_icons=true&theme=radical&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 <br> <br>
@@ -20,19 +20,19 @@
 
 ##
 
-<h3>Knowledge</h3>
+<h2>Knowledge</h2>
 
-<img align="right" alt="Anime-gif" width="350" src="https://i.pinimg.com/originals/be/53/fc/be53fc5350400539c44b3bc7c2552fe9.gif">
-
-<div style="display: inline_block">
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="left" style="display:grid; gap:20px">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,arduino,azure,bootstrap,cassandra,cypress,discord,docker,dotnet,github,githubactions,gmail,htmx,ai,instagram,java,linkedin">
 </div>
 
 <br><br>
+
+<div align="center">
+<img alt="Anime-gif" width="350" src="https://i.pinimg.com/originals/be/53/fc/be53fc5350400539c44b3bc7c2552fe9.gif">
+</div>
+
+<br>
 
 <h3>Contact me</h3>
 
