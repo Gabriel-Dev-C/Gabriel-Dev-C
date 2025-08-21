@@ -41,12 +41,6 @@
   <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=000">
 </div>
 
-<h2>Knowledge</h2>
-
-<div align="left" style="display:grid; gap:20px">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,arduino,azure,bootstrap,cassandra,cypress,discord,docker,dotnet,github,githubactions,gmail,htmx,ai,instagram,java,linkedin">
-</div>
-
 <br><br>
 
 <div align="center">
@@ -54,6 +48,8 @@
 </div>
 
 <br>
+
+##
 
 <h3>Contact me</h3>
 
