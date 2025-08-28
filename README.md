@@ -10,7 +10,6 @@
 
 <div align="center">
 
-![Gabriel-Dev-C's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Dev-C&theme=tokyonight&hide_border=true)<br><br>
 ![Gabriel-Dev-C's Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev-C&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br><br>
 ![Gabriel-Dev-C's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-C&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <br> <br>
