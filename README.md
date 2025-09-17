@@ -4,14 +4,13 @@
 
 <br>
 
-<p align="center">Atualmente sou estudante de Ciências da Computação na Faculdade UniAnchieta. Me interesso tanto em ser um desenvolvedor Full-Stack, além de possuir um grande interesse pela área de Inteligência Artificial e CyberSecurity! Atualmente meu foco de estudo está sendo a área de front-end, juntamente com processos de automação para vendas. No momento estou desenvolvendo minhas habilidades no HTML, CSS e JS. Eu continuo estudando e me atualizando a cada momento na área da tecnologia pois gosto de estar sempre aprendendo coisas novas.</p>
+<p align="center">Atualmente sou estudante de Ciências da Computação na Faculdade UniAnchieta. Me interesso em ser um desenvolvedor Full-Stack, além de possuir um grande interesse pela área de Inteligência Artificial e CyberSecurity! Atualmente meu foco de estudo está sendo a área da criação de API's, juntamente com processos de automação para vendas utilizando inteligência artificial. No momento estou desenvolvendo minhas habilidades em NODE.JS, Typescript e C#. Eu continuo estudando e me atualizando a todo momento na área da tecnologia pois gosto de estar sempre aprendendo coisas novas.</p>
 
 <br>
 
 <div align="center">
 
-![Gabriel-Dev-C's Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev-C&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br><br>
-![Gabriel-Dev-C's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-C&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gabriel-Dev-C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
 <br> <br>
 
 <!-- <img alt="Top-Languages" height="200" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-C&size_weight=0.5&count_weight=0.5&theme=radical&bg_color=00000000"> -->
@@ -50,14 +49,14 @@
 
 ##
 
-<h3>Contact me</h3>
+<h3>Contact me!</h3>
 
 <div style="display: inline_block">
   <a href="https://www.youtube.com/@BieeLL_" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/biel_chms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gacmartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
+  <a href = "mailto:gacmartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/gabriel-chabaribery-martins-7aab6a2b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://stackoverflow.com/users/26669877/gabriel-dev-c?tab=profile" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
+  <a href="https://stackoverflow.com/users/26669877/gabriel-dev-c?tab=profile" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a><br>
 </div>
 
 <picture align="center">
