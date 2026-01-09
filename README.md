@@ -6,15 +6,15 @@
 
 <p align="center">Atualmente sou estudante de Ciências da Computação na Faculdade UniAnchieta. Me interesso em ser um desenvolvedor Full-Stack, além de possuir um grande interesse pela área de Inteligência Artificial e CyberSecurity! Atualmente meu foco de estudo está sendo a área da criação de API's, juntamente com processos de automação para vendas utilizando inteligência artificial. No momento estou desenvolvendo minhas habilidades em NODE.JS, Typescript e C#. Eu continuo estudando e me atualizando a todo momento na área da tecnologia pois gosto de estar sempre aprendendo coisas novas.</p>
 
-<div align="center">
+<!--<div align="center">
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Gabriel-Dev-C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br><br>-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gabriel-Dev-C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
 <br> <br>
 
-<!--<img alt="Top-Languages" height="200" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-C&size_weight=0.5&count_weight=0.5&theme=radical&bg_color=00000000">-->
+<img alt="Top-Languages" height="200" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-C&size_weight=0.5&count_weight=0.5&theme=radical&bg_color=00000000">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-C&size_weight=0.5&count_weight=0.5&theme=radical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</div> -->
 
 
 <br><br>
