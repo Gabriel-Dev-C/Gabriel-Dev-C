@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center">Atualmente sou estudante de Ciências da Computação na Faculdade UniAnchieta. Me interesso em ser um desenvolvedor Full-Stack, além de possuir um grande interesse pela área de Inteligência Artificial e CyberSecurity! Atualmente meu foco de estudo está sendo a área da criação de API's, juntamente com processos de automação para vendas utilizando inteligência artificial. No momento estou desenvolvendo minhas habilidades em NODE.JS, Typescript e C#. Eu continuo estudando e me atualizando a todo momento na área da tecnologia pois gosto de estar sempre aprendendo coisas novas.</p>
+<p align="center">Atualmente sou estudante de Ciências da Computação na Faculdade UniAnchieta. Me interesso em ser um desenvolvedor Full-Stack, além de possuir um grande interesse pela área de Inteligência Artificial e CyberSecurity! Atualmente meu foco de estudo está sendo a área de Banco e Análise de dados, juntamente com processos de automação para vendas utilizando inteligência artificial. No momento estou desenvolvendo minhas habilidades em Javascript, Python e SQL. Eu continuo estudando e me atualizando a todo momento na área da tecnologia pois gosto de estar sempre aprendendo coisas novas.</p>
 
 <!--<div align="center">
 
